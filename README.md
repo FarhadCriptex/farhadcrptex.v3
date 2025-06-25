@@ -33,3 +33,12 @@ You'll be prompted to enter:
 > This tool is created strictly for educational and authorized testing purposes.
 
 ❌ Do NOT use on any server, site or network without permission. ❌ Misuse can be illegal.
+✨ Developer
+
+Name: FarHad Cryptex
+Group: Islamic Cyber Network
+GitHub: github.com/FarhadCriptex
+❤️ Contributions
+
+Pull requests and feature suggestions are welcome!
+Want banner ideas or proxy validator? Open an issue.
